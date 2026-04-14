@@ -80,12 +80,4 @@ AI / RPA / システム実装（SE）
 運用自動化・保守体制構築
 ```
 
----
-
-## GitHub Stats
-
-![NakayamaY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NakayamaY&show_icons=true&theme=default&hide_border=true)
-
----
-
 *AI・自動化・DX領域での個人開発に注力中。業務課題を仕組みで解決することに情熱があります。*
